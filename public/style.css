@@ -4,7 +4,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #FaFaFa;
+	background-color: #F0F2F4;
 	text-align: center;
 	line-height: 1.4em;
 }
@@ -33,6 +33,7 @@ code {
   padding: 2px;
   color: black;
   background-color: #fff;
+  border-radius:5px;
 }
 ol {
 	list-style-position: outside;

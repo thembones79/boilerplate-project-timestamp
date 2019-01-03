@@ -1,7 +1,8 @@
 {
-	"name": "fcc-api-projects-boilerplate",
+	"name": "Timestamp",
 	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
+  "author": "Michał Szumnarski",
+	"description": "Timestamp Microservice - An FCC Backend Challenge",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
